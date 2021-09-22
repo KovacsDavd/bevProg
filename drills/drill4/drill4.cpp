@@ -5,7 +5,7 @@ int main()
 	int n;
 	int m;
 	char a;
-	while (cin.get()!='|')
+	while ()
 	{
 		cout << "Please add 2 numbers: ";
 		cin >> n >> m;
